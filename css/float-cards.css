@@ -1,6 +1,6 @@
 *{
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Lilita One', cursive;
 }
 
 
@@ -9,10 +9,70 @@ h1{
     text-align: center;
     margin-top: 3rem;
     color: #E5316E;
-    font-size: 60px;
-    font-family: 'Lilita One', cursive;
+    font-size: 55px;
+    
 }
 
 
 /* corpo  */
+
+.container{
+    max-width: 70%;
+    background-color: white;
+    margin: 30px auto;
+}
+    
+
+.paragrafo{
+    text-align: center;
+}
+
+
+/* MARCO  */
+.marco{
+    height: 80px;
+    width: 270px;
+    background-color: black;
+    color: white;
+    
+}
+
+img{
+    height: 5rem;
+    float: left;
+
+}
+.pm{
+    margin: 0px 0px 3px 0px;
+}
+.pm1{
+    padding-top: 5px;
+    margin-top: 0px;
+    margin-bottom: 3px;
+}
+.pm2{
+    margin: 0px 0px 3px 0px;
+}
+.pm3{
+    margin: 0px 0px 3px 0px;
+    color: #99D9EA;
+}
+
+/* laura */
+
+.laura{
+    height: 80px;
+    width: 270px;
+    background-color: black;
+    color: white;
+    
+}
+
+
+
+
+ 
+
+
+
 
