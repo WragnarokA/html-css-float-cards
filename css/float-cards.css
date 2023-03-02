@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* titolo */
+h1{
+    text-align: center;
+    margin-top: 3rem;
+    color: #E5316E;
+    font-size: 60px;
+    font-family: 'Lilita One', cursive;
+}
+
+
+/* corpo  */
+
