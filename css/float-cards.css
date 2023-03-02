@@ -17,7 +17,7 @@ h1{
 /* corpo  */
 
 .container{
-    max-width: 70%;
+    max-width: 60%;
     background-color: white;
     margin: 30px auto;
 }
@@ -65,8 +65,43 @@ img{
     width: 270px;
     background-color: black;
     color: white;
-    
 }
+
+.giorgio{
+    height: 80px;
+    width: 270px;
+    background-color: black;
+    color: white;
+
+}
+    
+
+.marta{
+    height: 80px;
+    width: 270px;
+    background-color: black;
+    color: white;
+
+}
+
+.roberto{
+    height: 80px;
+    width: 270px;
+    background-color: black;
+    color: white;
+
+}
+
+
+.daniela{
+    height: 80px;
+    width: 270px;
+    background-color: black;
+    color: white;
+
+}
+
+
 
 
 
