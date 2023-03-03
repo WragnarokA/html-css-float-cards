@@ -31,10 +31,16 @@ h1{
 /* MARCO  */
 .marco{
     height: 80px;
-    width: 270px;
+    width: 320px;
     background-color: black;
     color: white;
+    float: left;
+    margin-right: 150px;
     
+    
+ 
+ 
+   
 }
 
 img{
@@ -62,42 +68,85 @@ img{
 
 .laura{
     height: 80px;
-    width: 270px;
+    width: 320px;
     background-color: black;
     color: white;
+    float: left;
+    margin-right: 150px;
+
+   
+  
+ 
+   
 }
+
+
+/* giorgio  */
 
 .giorgio{
     height: 80px;
-    width: 270px;
+    width: 320px;
     background-color: black;
     color: white;
-
+    float: left;
 }
     
+    
+    
+    
+   
+    
+
+    
+
+
+/* marta  */
 
 .marta{
     height: 80px;
-    width: 270px;
+    width: 320px;
     background-color: black;
     color: white;
+    clear: both;
+    float: left;
+    margin-top: 30px;
+    margin-right: 150px;
 
+
+ 
 }
+
+
+
+/* roberto  */
 
 .roberto{
     height: 80px;
-    width: 270px;
+    width: 320px;
     background-color: black;
     color: white;
+    float: left;
+    margin-top: 30px;
+    margin-right: 150px;
 
+   
+   
 }
+
+
+
+/* daniela  */
 
 
 .daniela{
     height: 80px;
-    width: 270px;
+    width: 320px;
     background-color: black;
     color: white;
+    float: left;
+    margin-top: 30px;
+   
+    
 
 }
 
